@@ -1,0 +1,7 @@
+table{
+    border-collapse: collapse;
+    width: 60%;
+    background-color: white;
+    table-layout: fixed;
+    margin: 5px;
+}
